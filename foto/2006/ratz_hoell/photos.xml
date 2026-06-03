@@ -1,0 +1,221 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_1697.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1697.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1698.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1698.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1699.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1699.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1700.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1700.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1701.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1701.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1702.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1702.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1705.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1705.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1706.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1706.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1708.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1708.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1709.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1709.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1714.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1714.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1716.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1716.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1717.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1717.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1719.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1719.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1723.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1723.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1725.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1725.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1726.jpg"
+width = "700"
+height = "466"
+thumbpath = "IMG_1726.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "JCRW_1958.jpg"
+width = "700"
+height = "465"
+thumbpath = "JCRW_1958.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "JCRW_1959.jpg"
+width = "700"
+height = "465"
+thumbpath = "JCRW_1959.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "JCRW_1960.jpg"
+width = "700"
+height = "465"
+thumbpath = "JCRW_1960.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+</images>
+</gallery>

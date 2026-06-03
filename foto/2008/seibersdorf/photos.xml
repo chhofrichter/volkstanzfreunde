@@ -1,0 +1,111 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "3"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_2839.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2839.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2843.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2843.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2844.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2844.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2845.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2845.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2846.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2846.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2849.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2849.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2851.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2851.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2852.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2852.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2854.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2854.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>

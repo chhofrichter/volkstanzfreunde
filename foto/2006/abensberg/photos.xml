@@ -1,0 +1,141 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "17.05.2006">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "IMG_1425.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1425.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1426.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1426.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1427.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1427.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1428.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1428.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1429.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1429.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1430.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1430.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1431.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1431.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1432.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1432.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1433.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1433.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1434.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1434.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1435.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1435.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "IMG_1436.jpg"
+width = "500"
+height = "333"
+thumbpath = "IMG_1436.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+</images>
+</gallery>

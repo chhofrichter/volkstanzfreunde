@@ -1,0 +1,151 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_2695.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2695.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2696.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2696.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2698.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2698.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2702.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2702.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2706.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2706.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2707.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2707.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2708.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2708.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2709.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2709.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2710.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2710.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2711.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2711.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2716.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2716.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2719.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2719.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2721.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2721.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,61 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "2"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_1952.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_1952.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_1953.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_1953.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_1956.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_1956.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_1958.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_1958.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>

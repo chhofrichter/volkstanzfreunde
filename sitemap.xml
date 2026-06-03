@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+	<loc>http://volkstanzfreunde.de/</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/news.htm</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/termine.htm</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/tanz.htm</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/cd.html</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/bilder/index.php</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/link.htm</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url>
+<url>
+	<loc>http://volkstanzfreunde.de/kontakt.htm</loc>
+	<lastmod>2009-10-21</lastmod>
+	<changefreq>weekly</changefreq>
+	<priority>0.3</priority>
+</url>
+</urlset>

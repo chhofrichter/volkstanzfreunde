@@ -1,0 +1,161 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_1966.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1966.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1967.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1967.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1969.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1969.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1970.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1970.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1971.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1971.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1972.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1972.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1973.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1973.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1974.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1974.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1976.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1976.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1977.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1977.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1978.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1978.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1981.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1981.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1983.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1983.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+
+<image
+path = "CRW_1984.jpg"
+width = "700"
+height = "465"
+thumbpath = "CRW_1984.jpg"
+thumbwidth = "150"
+thumbheight = "99">
+</image>
+
+</images>
+</gallery>

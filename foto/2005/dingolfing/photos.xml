@@ -1,0 +1,171 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "Kugelkirtatanz_01.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_01.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_02.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_02.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_03.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_03.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_04.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_04.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_05.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_05.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_06.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_06.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_07.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_07.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_08.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_08.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_09.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_09.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_10.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_10.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_11.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_11.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_12.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_12.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_13.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_13.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_14.jpg"
+width = "360"
+height = "480"
+thumbpath = "Kugelkirtatanz_14.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "Kugelkirtatanz_15.jpg"
+width = "640"
+height = "480"
+thumbpath = "Kugelkirtatanz_15.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,181 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_2601.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2601.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2602.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2602.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2603.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2603.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2604.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2604.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2605.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2605.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2608.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2608.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2610.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2610.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2613.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2613.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2614.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2614.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2616.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2616.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2617.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2617.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2618.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2618.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2619.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2619.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2620.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2620.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2622.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2622.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2627.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2627.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>

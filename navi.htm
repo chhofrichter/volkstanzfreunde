@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>link</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript">
+<!--
+<!--
+if (parent.frames.length ==0) window.location.href = "index.html";
+// -->
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+//-->
+</script>
+</head>
+<body onLoad="Status();MM_preloadImages('grafik/termine2.gif','grafik/volks3.gif','grafik/cd2.gif','grafik/foto2.gif','grafik/links2.gif','grafik/gastb2.gif','grafik/kontakt2.gif','grafik/home2.gif')" bgcolor="#FFFFFF" background="grafik/bluesheetrain.jpg">
+<div align="left"> 
+  <p align="center"><a href="news.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','grafik/home2.gif',1)" target="mitte"><img name="Image11" border="0" src="grafik/home.gif" width="115" height="24"></a></p>
+  <p align="center"><a href="termine.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','grafik/termine2.gif',1)" target="mitte"><img name="Image13" border="0" src="grafik/termine.gif" width="115" height="24" alt="alle mir bekannten"></a></p>
+  <p align="center"><a href="tanz.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image14','','grafik/volks3.gif',1)" target="mitte"><img name="Image14" border="0" src="grafik/volks2.gif" width="115" height="24" alt="alle T&auml;nze in unsere Gegend"></a></p>
+  <p align="center"><a href="cd/cd.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image15','','grafik/cd2.gif',1)" target="mitte"><img name="Image15" border="0" src="grafik/cd.gif" width="115" height="24" alt="hier werden Cd's vorgestellt"></a></p>
+  <p align="center"><a href="foto_tmp.html" target="mitte"><img name="Image16" border="0" src="grafik/foto.gif" width="115" height="24" alt="Bilder vom VT"></a></p>
+  <p align="center"><a href="link.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','grafik/links2.gif',1)" target="mitte"><img name="Image18" border="0" src="grafik/links.gif" width="115" height="24" alt="run away"></a></p>
+  <p align="center"><a href="http://627831.guestbook.onetwomax.de" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image17','','grafik/gastb2.gif',1)" target="mitte"><img name="Image17" border="0" src="grafik/gastb.gif" width="115" height="24" alt="Labereck"></a></p>
+  <p align="center"><a href="kontakt.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image19','','grafik/kontakt2.gif',1)" target="mitte"><img name="Image19" border="0" src="grafik/kontakt.gif" width="115" height="24" alt="Email"></a></p>
+  <p align="left">&nbsp;</p>
+</div>
+<SCRIPT language=Javascript><!--
+var text="Der Volkstanzkalender im Internet für die Hallertau und Umgebung    ---es wird weiter umgebaut---    ";var x=0
+function bb(){
+var a=text.substring(0,x);
+var b=text.substring(x,x+1).toUpperCase();
+var c=text.substring(x+1,text.length);
+window.status=a+b;
+if(x==text.length){x=0}else{x++}
+setTimeout("bb()",55);
+}
+bb();zaehler=0;
+// --></SCRIPT>
+</body>
+</html>

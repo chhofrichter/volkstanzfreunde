@@ -1,0 +1,131 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "5" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_2020.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2020.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2021.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2021.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2022.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2022.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2023.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2023.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2024.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2024.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2025.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2025.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2026.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2026.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2028.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2028.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2029.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2029.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2031.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2031.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_2033.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_2033.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,661 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "P6020002.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6020002.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6020010.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6020010.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6020011.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6020011.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6020013.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6020013.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6020014.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6020014.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6020016.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6020016.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030017.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030017.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030020.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030020.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030021.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030021.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030022.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030022.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030023.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030023.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030024.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030024.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030025.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030025.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030026.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030026.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030027.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030027.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030028.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030028.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030029.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030029.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030030.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030030.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030031.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030031.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030032.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030032.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030033.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030033.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030036.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030036.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030037.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030037.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030038.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6030038.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6030039.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030039.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030040.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6030040.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6030042.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030042.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030043.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030043.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030044.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030044.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030045.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030045.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030046.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030046.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030047.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030047.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030048.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6030048.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6030050.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6030050.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6040001.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040001.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6040002.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040002.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6040004.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6040004.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6040007.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6040007.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6040008.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040008.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6040009.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040009.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6040010.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040010.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6040011.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040011.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6040014.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6040014.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050017.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050017.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050018.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050018.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050019.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050019.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050020.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050020.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050021.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050021.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050022.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050022.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050023.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050023.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050024.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050024.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050025.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050025.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050028.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6050028.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6050029.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050029.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050030.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6050030.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6050032.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050032.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050033.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050033.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050035.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050035.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050037.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6050037.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6050038.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6050038.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6050039.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6050039.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6050040.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050040.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+
+<image
+path = "P6050041.jpg"
+width = "375"
+height = "500"
+thumbpath = "P6050041.jpg"
+thumbwidth = "112"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "P6050042.jpg"
+width = "500"
+height = "375"
+thumbpath = "P6050042.jpg"
+thumbwidth = "150"
+thumbheight = "112">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,511 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#F0F0F0" border = "0" rows = "5" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "CRW_3000.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3000.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3001.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3001.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3002.jpg"
+width = "400"
+height = "600"
+thumbpath = "CRW_3002.jpg"
+thumbwidth = "100"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "CRW_3003.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3003.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3004.jpg"
+width = "400"
+height = "600"
+thumbpath = "CRW_3004.jpg"
+thumbwidth = "100"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "CRW_3006.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3006.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3008.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3008.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3009.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3009.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3010.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3010.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3011.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3011.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3013.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3013.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3014.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3014.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3015.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3015.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3017.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3017.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3020.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3020.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3021.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3021.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3023.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3023.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3024.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3024.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3025.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3025.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3026.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3026.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3028.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3028.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3029.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3029.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3030.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3030.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3031.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3031.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3032.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3032.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3033.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3033.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3034.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3034.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3035.jpg"
+width = "400"
+height = "600"
+thumbpath = "CRW_3035.jpg"
+thumbwidth = "100"
+thumbheight = "150">
+</image>
+
+
+<image
+path = "CRW_3036.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3036.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3037.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3037.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3038.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3038.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3039.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3039.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3040.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3040.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3041.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3041.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3042.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3042.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3043.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3043.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3044.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3044.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3045.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3045.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3047.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3047.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3048.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3048.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3049.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3049.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3050.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3050.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3051.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3051.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3053.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3053.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3054.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3054.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3055.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3055.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3056.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3056.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3057.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3057.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+
+<image
+path = "CRW_3059.jpg"
+width = "600"
+height = "400"
+thumbpath = "CRW_3059.jpg"
+thumbwidth = "150"
+thumbheight = "100">
+</image>
+
+</images>
+</gallery>
